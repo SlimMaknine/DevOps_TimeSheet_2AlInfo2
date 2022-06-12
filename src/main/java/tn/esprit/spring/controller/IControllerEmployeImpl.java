@@ -91,7 +91,7 @@ public class IControllerEmployeImpl  {
 	}
 
 
-	public void mettreAjourEmailByEmployeIdJPQL(String email, int employeId) {	
+	public void mettreAjourEmailByEmployeIdJPQLl(String email, int employeId) {
 	iemployeservice.mettreAjourEmailByEmployeIdJPQL(email, employeId);
 		
 	}
